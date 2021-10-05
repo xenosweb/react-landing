@@ -30,6 +30,7 @@ export default function PortfolioItems({ data }) {
 													<a
 														href={item.url}
 														className="block transition duration-200 ease-out transform hover:scale-110"
+														target="_blank"
 													>
 														<img
 															className="object-cover w-full shadow-sm"
@@ -49,7 +50,7 @@ export default function PortfolioItems({ data }) {
 															<span>{item.type}</span>
 														</div>
 														<h2 className="text-base font-bold sm:text-lg md:text-xl">
-															<a href="#_">{item.name}</a>
+															<p>{item.name}</p>
 														</h2>
 														<p className="mt-2 text-sm text-gray-500">
 															{item.text}
