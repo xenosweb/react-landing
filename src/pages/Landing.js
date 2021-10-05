@@ -3,6 +3,7 @@ import Header from "../parts/Header";
 import Hero from "../parts/Hero";
 import CTA from "../parts/CTA";
 import Footer from "../parts/Footer";
+import Featured from "../parts/Featured";
 
 export default class Landing extends Component {
 	componentDidMount() {
@@ -15,6 +16,7 @@ export default class Landing extends Component {
 			<>
 				<Header></Header>
 				<Hero></Hero>
+				<Featured></Featured>
 				<CTA
 					heading="Boost Your Business"
 					sub="Our service will help you maximize and boost your
