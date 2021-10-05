@@ -16,8 +16,13 @@ export default class Portfolio extends Component {
 			<>
 				<Header></Header>
 				<MiniHero title="Portfolio" subtitle="by Coderaulia"></MiniHero>
-				<PortfolioItems data={portfolio}></PortfolioItems>
-				<CTA></CTA>
+				<PortfolioItems data={portfolio.website}></PortfolioItems>
+				<CTA
+					heading="Need a Website or Apps?"
+					sub="Maximize and boost your
+									business through internet with us."
+					call="Get a Quote"
+				></CTA>
 				<Footer></Footer>
 			</>
 		);

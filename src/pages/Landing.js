@@ -15,7 +15,12 @@ export default class Landing extends Component {
 			<>
 				<Header></Header>
 				<Hero></Hero>
-				<CTA></CTA>
+				<CTA
+					heading="Boost Your Business"
+					sub="Our service will help you maximize and boost your
+									business through internet."
+					call="Get Started"
+				></CTA>
 				<Footer></Footer>
 			</>
 		);
