@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Header from "../parts/Header";
 import Hero from "../parts/Hero";
+import CTA from "../parts/CTA";
+import Footer from "../parts/Footer";
 
 export default class Landing extends Component {
 	componentDidMount() {
@@ -13,6 +15,8 @@ export default class Landing extends Component {
 			<>
 				<Header></Header>
 				<Hero></Hero>
+				<CTA></CTA>
+				<Footer></Footer>
 			</>
 		);
 	}
