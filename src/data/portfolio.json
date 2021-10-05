@@ -1,0 +1,111 @@
+{
+	"website": {
+		"title": "Website",
+		"subtitle": "Here are some cool websites we've been working on.",
+		"items": [
+			{
+				"type": "Company Profile",
+				"text": "Company profile website",
+				"color": "bg-green-500",
+				"name": "Furniture Company",
+				"url": "https://langgengsejahtera.com/",
+				"img": "/images/langgeng.jpg"
+			},
+			{
+				"type": "Company Profile",
+				"text": "Company profile website",
+				"color": "bg-green-500",
+				"name": "Law Firm",
+				"url": "https://roydanrekan.com/",
+				"img": "/images/roydanrekan.jpg"
+			},
+			{
+				"type": "Company Profile",
+				"text": "Company profile website",
+				"color": "bg-green-500",
+				"name": "My Portfolio v1",
+				"url": "https://pro.auliasatriow.com/",
+				"img": "/images/portfolio.jpg"
+			},
+			{
+				"type": "Company Profile",
+				"text": "Company profile website",
+				"color": "bg-green-500",
+				"name": "Psychology House",
+				"url": "https://rumahpsikologimahanani.com/",
+				"img": "/images/rumahpsi.jpg"
+			},
+			{
+				"type": "Company Profile",
+				"text": "Company profile website",
+				"color": "bg-green-500",
+				"name": "Chem Company",
+				"url": "https://orgindo.co.id/",
+				"img": "/images/orgindo.jpg"
+			},
+			{
+				"type": "News Website",
+				"text": "Local news website",
+				"color": "bg-red-500",
+				"name": "Local News",
+				"url": "https://matapenanews.com/",
+				"img": "/images/matapena.jpg"
+			},
+			{
+				"type": "Blog",
+				"text": "My Personal blog website",
+				"color": "bg-red-500",
+				"name": "Local News",
+				"url": "https://auliasatriow.com/",
+				"img": "/images/blog.jpg"
+			},
+			{
+				"type": "Landing Page",
+				"text": "Landing page website",
+				"color": "bg-blue-500",
+				"name": "Properties Company",
+				"url": "https://theortensiavillage.com/",
+				"img": "/images/theortensiavillage.jpg"
+			},
+			{
+				"type": "Landing Page",
+				"text": "Landing page website",
+				"color": "bg-blue-500",
+				"name": "Properties Company",
+				"url": "https://kavlingbamboogarden.web.id/",
+				"img": "/images/kavlingbamboo.jpg"
+			},
+			{
+				"type": "Landing Page",
+				"text": "Demo website",
+				"color": "bg-blue-500",
+				"name": "Copywriter Company",
+				"url": "https://littlebox.xyz/copywriter",
+				"img": "/images/copywriter.jpg"
+			}
+		]
+	},
+
+	"webapp": {
+		"title": "Web Apps",
+		"subtitle": "We also create custom web-based application.",
+		"items": [
+			{
+				"type": "Quiz App",
+				"text": "Web-app for assessment",
+				"color": "bg-indigo-600",
+				"name": "Assessment App",
+				"url": "https://app.rumahpsikologimahanani.com/",
+				"img": "/images/assessment.jpg"
+			},
+			{
+				"type": "Directory App",
+				"text": "Web-app for pub directory",
+				"color": "bg-red-600",
+				"name": "Directory App",
+				"url": "https://psikologi.unnes.ac.id/dosen",
+				"img": "/images/dosen-app.jpg"
+			}
+		]
+	}
+}
