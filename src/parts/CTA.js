@@ -1,7 +1,7 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 
-export default function CTA() {
+export default function CTA({ heading, sub, call }) {
 	return (
 		<Fade bottom delay={100}>
 			<section className="py-8 leading-7 bg-gray-800 sm:py-12 md:py-16 lg:py-24">
@@ -10,11 +10,10 @@ export default function CTA() {
 						<Fade right delay={300}>
 							<div className="box-border flex-1 text-center border-solid sm:text-left">
 								<h2 className="m-0 text-4xl font-semibold leading-tight tracking-tight text-left text-white border-0 border-gray-200 sm:text-5xl">
-									Boost Your Business
+									{heading}
 								</h2>
 								<p className="mt-2 text-xl text-left text-white border-0 border-gray-200 sm:text-2xl">
-									Our service will help you maximize and boost your
-									business through internet.
+									{sub}
 								</p>
 							</div>
 						</Fade>
@@ -23,7 +22,7 @@ export default function CTA() {
 								href="mailto:coderaulia@gmail.com"
 								className="inline-flex items-center justify-center w-full px-5 py-4 mt-6 ml-0 font-sans text-base leading-none text-black no-underline bg-white border border-white border-solid rounded cursor-pointer md:w-auto lg:mt-0 hover:bg-gray-200 hover:border-gray-200 hover:text-gray-800 focus-within:bg-green-700 focus-within:border-green-700 focus-within:text-white sm:text-lg lg:ml-6 md:text-xl"
 							>
-								Get Started
+								{call}
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
 									className="w-5 h-5 ml-2"
