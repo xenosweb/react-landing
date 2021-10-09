@@ -125,6 +125,14 @@
 			"items": [
 				{
 					"type": "Single Page App",
+					"text": "Covid Data Tracker with ReactJs",
+					"color": "bg-indigo-600",
+					"name": "Covid Tracker",
+					"url": "https://covid.xenosweb.com/",
+					"img": "/images/covid.png"
+				},
+				{
+					"type": "Single Page App",
 					"text": "Twitter clone with ReactJs",
 					"color": "bg-indigo-600",
 					"name": "Twitter Clone",

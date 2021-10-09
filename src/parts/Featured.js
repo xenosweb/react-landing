@@ -19,26 +19,27 @@ export default function Featured() {
 							<Fade bottom delay={300}>
 								<div className='flex flex-col items-start col-span-12 overflow-hidden shadow-sm rounded-xl md:col-span-6 lg:col-span-4'>
 									<a
-										href='#_'
+										href='https://covid.xenosweb.com'
 										className='block transition duration-200 ease-out transform hover:scale-110'>
 										<img
 											className='object-cover w-full shadow-sm'
 											src={
-												process.env.PUBLIC_URL +
-												"/images/matapena.jpg"
+												process.env.PUBLIC_URL + "/images/covid.png"
 											}
-											alt='My Portfolio'
+											alt='Covid Tracker'
 										/>
 									</a>
 									<div className='relative w-full flex flex-col items-start px-6 bg-white border border-t-0 border-gray-200 py-7 rounded-b-2xl'>
-										<div className='bg-blue-400 absolute top-0 -mt-3 flex items-center px-3 py-1.5 leading-none w-auto inline-block rounded-full text-xs font-medium uppercase text-white inline-block'>
-											<span>Website</span>
+										<div className='bg-red-400 absolute top-0 -mt-3 flex items-center px-3 py-1.5 leading-none w-auto inline-block rounded-full text-xs font-medium uppercase text-white inline-block'>
+											<span>React App</span>
 										</div>
 										<h2 className='text-base font-bold sm:text-lg md:text-xl'>
-											<a href='#_'>News website</a>
+											<a href='https://covid.xenosweb.com'>
+												Covid Data Tracker
+											</a>
 										</h2>
 										<p className='mt-2 text-sm text-gray-500'>
-											Local news portal website
+											Covid data tracker made with React
 										</p>
 									</div>
 								</div>
@@ -46,7 +47,7 @@ export default function Featured() {
 							<Fade bottom delay={600}>
 								<div className='flex flex-col items-start col-span-12 overflow-hidden shadow-sm rounded-xl md:col-span-6 lg:col-span-4'>
 									<a
-										href='#_'
+										href='https://app.rumahpsikologimahanani.com'
 										className='block transition duration-200 ease-out transform hover:scale-110'>
 										<img
 											className='object-cover w-full shadow-sm'
@@ -62,7 +63,9 @@ export default function Featured() {
 											<span>Web-App</span>
 										</div>
 										<h2 className='text-base font-bold sm:text-lg md:text-xl'>
-											<a href='#_'>Web app</a>
+											<a href='https://app.rumahpsikologimahanani.com'>
+												Web app
+											</a>
 										</h2>
 										<p className='mt-2 text-sm text-gray-500'>
 											Web app for Assessment
