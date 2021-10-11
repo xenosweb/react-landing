@@ -125,6 +125,14 @@
 			"items": [
 				{
 					"type": "Single Page App",
+					"text": "Spotify clone made with React Js",
+					"color": "bg-indigo-600",
+					"name": "Skutify app",
+					"url": "https://skutify.xenosweb.com/",
+					"img": "/images/skutify.png"
+				},
+				{
+					"type": "Single Page App",
 					"text": "Covid Data Tracker with ReactJs",
 					"color": "bg-indigo-600",
 					"name": "Covid Tracker",
