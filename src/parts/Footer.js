@@ -106,7 +106,7 @@ export default function Footer() {
 					</a>
 				</div>
 				<p className="mt-8 text-base leading-6 text-center text-gray-400">
-					© 2021 Coderaulia. All rights reserved.
+					© 2022 Aulia. All rights reserved.
 				</p>
 			</div>
 		</section>

@@ -3,16 +3,16 @@ import Fade from "react-reveal/Fade";
 
 export default function Hero() {
 	return (
-		<section className="px-2 pt-20 pb-28 bg-green-50 md:px-0 shadow-inner shadow-xl drop-shadow-xl">
+		<section className="px-2 pt-20 pb-28 bg-gray-50 md:px-0 shadow-inner shadow-xl drop-shadow-xl">
 			<div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
 				<div className="flex flex-wrap items-center sm:-mx-3">
 					<div className="w-full md:w-1/2 md:px-3">
 						<div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
 							<Fade bottom>
 								<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
-									<span className="block">Coderaulia &lt;/&gt;</span>
+									<span className="block">Aulia </span>
 									<span className="block text-green-700">
-										Web Developer
+										Tech Recruiter &amp; Web Developer
 									</span>
 								</h1>
 							</Fade>
@@ -60,7 +60,7 @@ export default function Hero() {
 							<div className="w-full h-auto overflow-hidden">
 								<img
 									src={process.env.PUBLIC_URL + "/images/vector.svg"}
-									alt="Coderaulia"
+									alt="Aulia Satrio Wibowo"
 								/>
 							</div>
 						</div>

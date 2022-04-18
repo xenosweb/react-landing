@@ -13,6 +13,14 @@
 					"img": "/images/langgeng.jpg"
 				},
 				{
+					"type": "UI Design",
+					"text": "Simple hero UI Design",
+					"color": "bg-gray-700",
+					"name": "Mendem",
+					"url": "#",
+					"img": "/images/mendem.png"
+				},
+				{
 					"type": "Company Profile",
 					"text": "Company profile website",
 					"color": "bg-green-500",
@@ -29,6 +37,14 @@
 					"img": "/images/portfolio.jpg"
 				},
 				{
+					"type": "UI Design",
+					"text": "Simple hero UI Design",
+					"color": "bg-gray-700",
+					"name": "Store",
+					"url": "#",
+					"img": "/images/store.png"
+				},
+				{
 					"type": "Company Profile",
 					"text": "Company profile website",
 					"color": "bg-green-500",
@@ -37,12 +53,12 @@
 					"img": "/images/rumahpsi.jpg"
 				},
 				{
-					"type": "Company Profile",
-					"text": "Company profile website",
-					"color": "bg-green-500",
-					"name": "Chem Company",
-					"url": "https://orgindo.co.id/",
-					"img": "/images/orgindo.jpg"
+					"type": "UI Design",
+					"text": "Simple hero UI Design",
+					"color": "bg-gray-700",
+					"name": "Let's Grow",
+					"url": "#",
+					"img": "/images/lets-grow.png"
 				},
 				{
 					"type": "News Website",
@@ -51,6 +67,14 @@
 					"name": "Local News",
 					"url": "https://matapenanews.com/",
 					"img": "/images/matapena.jpg"
+				},
+				{
+					"type": "UI Design",
+					"text": "Simple hero UI Design",
+					"color": "bg-gray-700",
+					"name": "Lawyered",
+					"url": "#",
+					"img": "/images/lawyer.png"
 				},
 				{
 					"type": "Blog",
@@ -77,6 +101,14 @@
 					"img": "/images/kavlingbamboo.jpg"
 				},
 				{
+					"type": "Company Profile",
+					"text": "Company profile website",
+					"color": "bg-green-500",
+					"name": "Chemical Company",
+					"url": "https://orgindo.co.id/",
+					"img": "/images/orgindo.jpg"
+				},
+				{
 					"type": "Landing Page",
 					"text": "Demo website",
 					"color": "bg-blue-500",
@@ -91,6 +123,30 @@
 			"title": "Web Apps",
 			"subtitle": "We also create custom web-based application.",
 			"items": [
+				{
+					"type": "Single Page App",
+					"text": "Spotify clone made with React Js",
+					"color": "bg-indigo-600",
+					"name": "Skutify app",
+					"url": "https://skutify.xenosweb.com/",
+					"img": "/images/skutify.png"
+				},
+				{
+					"type": "Single Page App",
+					"text": "Covid Data Tracker with ReactJs",
+					"color": "bg-indigo-600",
+					"name": "Covid Tracker",
+					"url": "https://covid.xenosweb.com/",
+					"img": "/images/covid.png"
+				},
+				{
+					"type": "Single Page App",
+					"text": "Twitter clone with ReactJs",
+					"color": "bg-indigo-600",
+					"name": "Twitter Clone",
+					"url": "https://twitter-clone-5240d.web.app/",
+					"img": "/images/twitter.png"
+				},
 				{
 					"type": "Quiz App",
 					"text": "Web-app for assessment",
